@@ -1,4 +1,4 @@
-## Hi there 👋, this is thecollectivemind
+## Hi there 👋, we are thecollectivemind
 
 <!--
 
